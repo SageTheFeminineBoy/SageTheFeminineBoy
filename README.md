@@ -1,5 +1,5 @@
 ## About Sage.
-Hiya! I'm Sage(They/Them), I'm a femboy who's been on HRT for around 4 years, I'm usually lounging around coding a discord bot, or maybe even ricing my desktop. I might post some configs for some of what I work on, depends on my mood.
+Hiya! I'm Sage(They/Them), I'm a femboy who's been on HRT for around 4 years, I'm usually lounging around coding a discord bot, or maybe even ricing my desktop. I might post some configs for some of what I work on, depends on my mood. I use linux on the daily (I use arch btw) and genuinely love it.
 
 Anyways, if you wish to reach me, I have listed below some ways you can!
 
