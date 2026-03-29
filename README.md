@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me Sage.
 
 <!--
 **SageTheFeminineBoy/SageTheFeminineBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hiya! I'm Sage(They/Them), I'm a femboy who's been on HRT for around 4 years, I'm usually lounging around coding a discord bot, or maybe even ricing my desktop. I might post some configs for some of what I work on, depends on my mood.
+
+Anyways, if you wish to reach me, I have listed below some ways you can!
+![discord](https://www.readmecodegen.com/api/social-icon?name=discord&size=96&animationDuration=0.2)
+
